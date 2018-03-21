@@ -1,0 +1,179 @@
+<resources>
+    <string name="app_name">emojisCristianos</string>
+    <string name="ask">Como te sientes?</string>
+    <string name="compartir">Compartir</string>
+    <string name="home">Recibe un versiculo que te guie en la senda de la vida :)</string>
+
+
+    <string name="attribution">Thanks to <a href="https://www.emojione.com/">emoji</a> for providing free emoji icons</string>
+
+
+    <string name="enojo_0">Mejor es el lento para la ira que el poderoso, y el que domina su espíritu que el que toma una ciudad _Proverbios 16:32</string>
+    <string name="enojo_1">AIRAOS, PERO NO PEQUEIS; no se ponga el sol sobre vuestro enojo _Efesios 4:26</string>
+    <string name="enojo_2">El lento para la ira tiene gran prudencia, pero el que es irascible ensalza la necedad _Proverbios 14:29</string>
+    <string name="enojo_3">pues la ira del hombre no obra la justicia de Dios _Santiago 1:20</string>
+    <string name="enojo_4">Sea quitada de vosotros toda amargura, enojo, ira, gritos, maledicencia, así como toda malicia _Efesios 4:31</string>
+    <string name="enojo_5">La suave respuesta aparta el furor, mas la palabra hiriente hace subir la ira _Proverbios 15:1</string>
+    <string name="enojo_6"> Mejor es vivir en un rincón del terrado que en una casa con mujer rencillosa _Proverbios 21:9</string>
+    <string name="enojo_7">Deja la ira y abandona el furor; no te irrites, sólo harías lo malo _Salmos 37:8</string>
+    <string name="enojo_8">Mas el fruto del Espíritu es amor, gozo, paz, paciencia, benignidad, bondad, fidelidad _Gálatas 5:22-23</string>
+    <string name="enojo_9">Esto sabéis, mis amados hermanos. Pero que cada uno sea pronto para oír, tardo para hablar, tardo para la ira _Santiago 1:19-20 </string>
+    <string name="enojo_10">Sed más bien amables unos con otros, misericordiosos, perdonándoos unos a otros, así como también Dios os perdonó en Cristo _Efesios 4:32</string>
+    <string name="enojo_11"> Si alguno se cree religioso, pero no refrena su lengua, sino que engaña a su {propio} corazón, la religión del tal es vana _Santiago 1:26</string>
+    <string name="enojo_12">La discreción del hombre le hace lento para la ira, y su gloria es pasar por alto una ofensa _Proverbios 19:11</string>
+    <string name="enojo_13">El odio suscita rencillas, pero el amor cubre todas las transgresiones _Proverbios 10:12</string>
+    <string name="enojo_14"> ¿De dónde vienen las guerras y los conflictos entre vosotros? ¿No vienen de vuestras pasiones que combaten en vuestros miembros? _Santiago 4:1</string>
+    <string name="enojo_15">El que retiene sus palabras tiene conocimiento, y el de espíritu sereno es hombre entendido _Proverbios 17:27</string>
+    <string name="enojo_16">No te apresures en tu espíritu a enojarte, porque el enojo se anida en el seno de los necios _Eclesiastés 7:9</string>
+    <string name="enojo_17">Pero rechaza los razonamientos necios e ignorantes, sabiendo que producen altercados _ 2 Timoteo 2:23-24</string>
+
+    <string name="alegre_0">Estén siempre contentos, Oren en todo momento. Den gracias a Dios en cualquier circunstancia. Esto es lo que Dios espera de ustedes, como cristianos que son _1 Tesalonicenses 5:16-18 TLA</string>
+    <string name="alegre_1">pues tu Dios está contigo y con su poder te salvará. Aunque no necesita de palabras para demostrarte que te ama, con cantos de alegría te expresará la felicidad que le haces sentir _Sofonías 3:17 TLA</string>
+    <string name="alegre_2"> Estén siempre llenos de alegría en el Señor. Lo repito, ¡alégrense! _Filipenses 4:4 NVI</string>
+    <string name="alegre_3">Mientras esperan al Señor, muéstrense alegres; cuando sufran por el Señor, muéstrense pacientes; cuando oren al Señor, muéstrense constantes _Romanos 12:12 TLA</string>
+    <string name="alegre_4">Hagamos fiesta en este día,porque en un día como éste Dios actuó en nuestro favor _Salmo 118:24</string>
+    <string name="alegre_5">Aunque no den higos las higueras, ni den uvas las viñas ni aceitunas los olivos; aunque no haya en nuestros campos nada que cosechar; aunque no tengamos vacas ni ovejas, siempre te alabaré con alegría porque tú eres mi salvador _Habacuc 3:17 TLA</string>
+    <string name="alegre_6">¡Me llené de alegría en el Señor mi Dios! Pues él me vistió con ropas de salvación y me envolvió en un manto de justicia. Soy como un novio vestido para su boda o una novia con sus joyas _Isaias 61:10 TLA</string>
+    <string name="alegre_7">Cada uno debe decidir en su corazón cuánto dar; y no den de mala gana ni bajo presión, «porque Dios ama a la persona que da con alegría _2 Corintios 9:7 NTV</string>
+    <string name="alegre_8">Por eso me regocijo en debilidades, insultos, privaciones, persecuciones y dificultades que sufro por Cristo; porque cuando soy débil, entonces soy fuerte _2 corintios 12:10 TLA </string>
+    <string name="alegre_9">Me alegro de ser débil, de ser insultado y perseguido, y de tener necesidades y dificultades por ser fiel a Cristo. Pues lo que me hace fuerte es reconocer que soy débil _2 Corintios 12:10 TLA</string>
+    <string name="alegre_10">Si alguno está alegre, alégrense con él; si alguno está triste, acompáñenlo en su tristeza _Romanos 12:15 TLA</string>
+    <string name="alegre_11">Tus enseñanzas son mías; ¡son la alegría de mi corazón! He decidido cumplirlas para siempre y hasta el fin _Salmos 119:111-112 TLA</string>
+    <string name="alegre_12">Siempre estoy repitiendo las enseñanzas que nos diste. En ellas pongo toda mi atención, pues me hacen más feliz que todo el oro del mundo. _Salmos 119:14-15 TLA</string>
+    <string name="alegre_13">Deléitate en el Señor, y él te concederá los deseos de tu corazón. Entrega al Señor todo lo que haces; confía en él, y él te ayudará _Salmo 37:4-5 NTV</string>
+    <string name="alegre_14">Sé que el Señor siempre está conmigo. No seré sacudido, porque él está aquí a mi lado. Con razón mi corazón está contento y yo me alegro; mi cuerpo descansa seguro _Salmos 16:8-9 <NTV></NTV></string>
+    <string name="alegre_15">tú derramas luz y alegría sobre la gente honrada _Salmos 97:11 TLA</string>
+    <string name="alegre_16">Cuando Dios quiere a alguien, le da sabiduría y conocimientos, y lo hace estar alegre; en cambio, al que desobedece lo hace trabajar y amontonar mucho dinero, para luego dárselo todo a quien él quiere. ¡Pero eso tampoco tiene sentido! ¡Es como querer atrapar el viento! _Eclesiastés 2:26 TLA</string>
+    <string name="alegre_17">En cambio, el Espíritu de Dios nos hace amar a los demás, estar siempre alegres y vivir en paz con todos. Nos hace ser pacientes y amables, y tratar bien a los demás, tener confianza en Dios _Gálatas 5:22 TLA </string>
+
+    <string name="sanidad_0">Si alguno está enfermo, que llame a los líderes de la iglesia, para que oren por él; entonces ellos le untarán aceite y le pedirán al Señor que lo sane. Si oran con confianza, Dios les responderá y sanará al enfermo, y si ha pecado también lo perdonará. _Santiago 5:14-15 TLA </string>
+    <string name="sanidad_1"> Hijo mío, presta atención a lo que te digo. Escucha atentamente mis palabras. No las pierdas de vista. Déjalas llegar hasta lo profundo de tu corazón, pues traen vida a quienes las encuentran y dan salud a todo el cuerpo. _Proverbios 4:20-22 NTV</string>
+    <string name="sanidad_2">Les dijo: Si ustedes escuchan atentamente la voz del Señor su Dios y hacen lo que es correcto ante sus ojos, obedeciendo sus mandatos y cumpliendo todos sus decretos, entonces no les enviaré ninguna de las enfermedades que envié a los egipcios; porque yo soy el Señor, quien los sana. _Éxodo 15:26</string>
+    <string name="sanidad_3"> Llenos de angustia, oraron a Dios, y él los salvó de su aflicción; con sólo una orden los sanó. ¡Así los salvó de la muerte! ¡Demos gracias a Dios por su amor, por todo lo que ha hecho en favor nuestro! _Salmos 107:19-21 <TLA></TLA></string>
+    <string name="sanidad_4">Adórenme, pues yo soy su Dios. Yo los bendeciré con abundantes alimentos. Nunca dejaré que se enfermen _Éxodo 23:25 TLA </string>
+    <string name="sanidad_5">Mi Señor y Dios, te pedí ayuda, y me sanaste; ¡me salvaste de la muerte! Estaba a punto de morir ¡y me libraste de la tumba! _Salmos 30:2-3 TLA</string>
+    <string name="sanidad_6">A pesar de todo esto, él cargó con nuestras enfermedades y soportó nuestros dolores. Nosotros pensamos que Dios lo había herido y humillado. Pero él fue herido por nuestras rebeliones, fue golpeado por nuestras maldades; él sufrió en nuestro lugar, y gracias a sus heridas recibimos la paz y fuimos sanados. _Isaías 53:4-5 TLA </string>
+    <string name="sanidad_7">¡Con todas las fuerzas de mi ser lo alabaré y recordaré todas sus bondades! Mi Dios me perdonó todo el mal que he hecho; me devolvió la salud, me libró de la muerte, ¡me llenó de amor y de ternura! _Salmos 103:2-4 TLA</string>
+    <string name="sanidad_8">Dios sanó las heridas de los que habían perdido toda esperanza. _Salmos 147:3 </string>
+    <string name="sanidad_9">Dios mío, sólo tú mereces mis alabanzas. ¡Devuélveme la salud, dame salvación! Así viviré feliz y en paz _Jeremías 17:14 TLA</string>
+    <string name="sanidad_10"> No hay mejor medicina que tener pensamientos alegres. Cuando se pierde el ánimo, todo el cuerpo se enferma. _Proverbios 17:22 TLA</string>
+    <string name="sanidad_11"> Las palabras amables son como la miel: endulzan la vida y sanan el cuerpo _Proverbios 16:24 TLA</string>
+    <string name="sanidad_12">No te creas muy sabio; obedece a Dios y aléjate del mal; así te mantendrás sano y fuerte _Proverbios 3:7-8 TLA</string>
+    <string name="sanidad_13">Jesús les respondió: Los que necesitan del médico son los enfermos, no los que están sanos. Yo vine a invitar a los pecadores para que regresen a Dios, no a los que se creen buenos. _Lucas 5:31-32</string>
+    <string name="sanidad_14">Con ánimo se alivia al enfermo, pero no a quien está deprimido. _Proverbios 18:14 TLA</string>
+    <string name="sanidad_15"> ¡Dense cuenta ahora de que yo soy el único Dios! Sólo yo sano las heridas; ¡sólo yo doy la vida, y sólo yo puedo quitarla! ¡De mí no se escapa nadie! _Deuteronomio 32:39 TLA</string>
+    <string name="sanidad_16">Señor, tu disciplina es buena, porque lleva a la vida y a la salud. ¡Tú restauras mi salud y me permites vivir! Sí, esta angustia ha sido buena para mí, porque me has rescatado de la muerte y has perdonado todos mis pecados. _Isaías 38:16-17 NTV</string>
+    <string name="sanidad_17">He visto lo que hacen, ¡pero aun así, los sanaré y los guiaré! Consolaré a los que se lamentan,     llevando palabras de alabanza a sus labios. Que tengan paz abundante, tanto cerca como lejos dice el Señor que los sana _Isaías 57:18-19 NTV</string>
+
+    <string name="money_0">Traigan todos los diezmos al depósito del templo, para que haya suficiente comida en mi casa. Si lo hacen —dice el Señor de los Ejércitos Celestiales—, les abriré las ventanas de los cielos. ¡Derramaré una bendición tan grande que no tendrán suficiente espacio para guardarla! ¡Inténtenlo! ¡Pónganme a prueba! _Malaquías 3:10 NTV</string>
+    <string name="money_1">Los que aman el dinero nunca tendrán suficiente. ¡Qué absurdo es pensar que las riquezas traen verdadera felicidad! _Eclesiastés 5:10 NTV</string>
+    <string name="money_2">No deban nada a nadie, excepto el deber de amarse unos a otros. Si aman a su prójimo, cumplen con las exigencias de la ley de Dios. _Romanos 13:8 NTV</string>
+    <string name="money_3"> Es mejor ser justo y tener poco que ser malvado y rico. Pues la fuerza de los malvados será destrozada, pero el Señor cuida a los justos. _Salmos 37:16-17 NTV</string>
+    <string name="money_4">La riqueza lograda de la noche a la mañana pronto desaparece; pero la que es fruto del arduo trabajo aumenta con el tiempo. _Proverbios 13:11 NTV </string>
+    <string name="money_5">No amen el dinero; estén contentos con lo que tienen, pues Dios ha dicho: Nunca te fallaré. Jamás te abandonaré. _Hebreos 13:5 NTV </string>
+    <string name="money_6"> De qué le sirve al tonto el dinero, si no tiene entendimiento; ¡la sabiduría no se compra! _Proverbios 17:16 TLA</string>
+    <string name="money_7">Nadie puede servir a dos amos. Pues odiará a uno y amará al otro; será leal a uno y despreciará al otro. No se puede servir a Dios y al dinero. _Mateo 6:24 NTV</string>
+    <string name="money_8">Maestro, ¿qué debemos hacer? Él les contestó: —No recauden más impuestos de lo que el gobierno requiere. —¿Qué debemos hacer nosotros? —preguntaron algunos soldados. Juan les contestó: —No extorsionen ni hagan falsas acusaciones, y estén satisfechos con su salario. _Lucas 3:12-14 NTV</string>
+    <string name="money_9">Si prestas dinero a cualquiera de mi pueblo que pase necesidad, no le cobres interés como acostumbran hacer los prestamistas. _Éxodo 22:25 NTV</string>
+    <string name="money_10">Pues el amor al dinero es la raíz de toda clase de mal; y algunas personas, en su intenso deseo por el dinero, se han desviado de la fe verdadera y se han causado muchas heridas dolorosas. _1 Timoteo 6:10 NTV </string>
+    <string name="money_11">Después de todo, no trajimos nada cuando vinimos a este mundo ni tampoco podremos llevarnos nada cuando lo dejemos. Así que, si tenemos suficiente alimento y ropa, estemos contentos. _1 Timoteo 6:7-8 NTV</string>
+    <string name="money_12">Honra al Señor con tus riquezas y con lo mejor de todo lo que produces. _Proverbios 3:9 NTV </string>
+    <string name="money_13">Cuando alguno de ustedes ayude a los pobres, no se lo cuente a nadie. Así esa ayuda se mantendrá en secreto, y Dios el Padre, que conoce ese secreto, les dará a ustedes su premio _Mateo 6:3 TLA</string>
+    <string name="money_14">Los perezosos pronto se empobrecen; los que se esfuerzan en su trabajo se hacen ricos _Proverbios 10:4 NTV</string>
+    <string name="money_15">Tú dices: “Soy rico, tengo todo lo que quiero, ¡no necesito nada!”. Y no te das cuenta de que eres un infeliz y un miserable; eres pobre, ciego y estás desnudo. _Apocalipsis 3:17 NTV</string>
+    <string name="money_16">La sabiduría y el dinero abren casi todas las puertas, pero solo la sabiduría puede salvarte la vida _Eclesiastés 7:12 NTV</string>
+    <string name="money_17">Enséñales a los ricos de este mundo que no sean orgullosos ni que confíen en su dinero, el cual es tan inestable. Deberían depositar su confianza en Dios, quien nos da en abundancia todo lo que necesitamos para que lo disfrutemos. _1 Timoteo 6:17</string>
+
+    <string name="snake_0">El dragón perdió la batalla y él y sus ángeles fueron expulsados del cielo. Este gran dragón —la serpiente antigua llamada diablo o Satanás, el que engaña al mundo entero— fue lanzado a la tierra junto con todos sus ángeles. _Apocalipsis 12:8-9 NTV</string>
+    <string name="snake_1">La serpiente era el más astuto de todos los animales salvajes que el Señor Dios había hecho. Cierto día le preguntó a la mujer: —¿De veras Dios les dijo que no deben comer del fruto de ninguno de los árboles del huerto? _Génesis 3:1 NTV</string>
+    <string name="snake_2">Pero tengo miedo de que les pase lo mismo que a Eva, que fue engañada por la astuta serpiente. También ustedes pueden ser engañados y dejar de pensar con sinceridad y pureza acerca de Cristo. _2 Corintios 11:3 TLA</string>
+    <string name="snake_3">Entonces Dios le dijo a la serpiente: «Por esto que has hecho, maldita seas, más que todo animal doméstico; ¡más que todo animal salvaje! Mientras tengas vida, te arrastrarás sobre tu vientre y comerás el polvo de la tierra. _Génesis 3:14 TLA</string>
+    <string name="snake_4">Los que confíen en mí y usen mi nombre podrán hacer cosas maravillosas: Podrán expulsar demonios; podrán hablar idiomas nuevos y extraños; podrán agarrar serpientes o beber algo venenoso, y nada les pasará. Además, pondrán las manos sobre los enfermos y los sanarán _Marcos 16:17-18 TLA</string>
+    <string name="snake_5">Los enemigos de Israel son como un monstruo del mar, y escurridizos como serpientes, pero Dios empuñará su espada, grande y poderosa, y los destruir _Isaías 27:1 TLA </string>
+
+    <string name="fortaleza_0">Cristo me da fuerzas para enfrentarme a toda clase de situaciones. _Filipenses 4:13 TLA</string>
+    <string name="fortaleza_1">Él da poder a los indefensos y fortaleza a los débiles. _Isaías 40:29 NTV</string>
+    <string name="fortaleza_2">En cambio, los que confían en el Señor encontrarán nuevas fuerzas; volarán alto, como con alas de águila. Correrán y no se cansarán; caminarán y no desmayarán. _Isaías 40:31 NTV</string>
+    <string name="fortaleza_3">Ama al Señor tu Dios con todo tu corazón, con toda tu alma, con toda tu mente y con todas tus fuerzas. _Marcos 12:30 NTV</string>
+    <string name="fortaleza_4">Dios es nuestro refugio y nuestra fuerza; siempre está dispuesto a ayudar en tiempos de dificultad. _Salmos 46:1 NTV</string>
+    <string name="fortaleza_5">¡Oh Señor, no te quedes lejos! Tú eres mi fuerza, ¡ven pronto en mi auxilio! _Salmos 22:19 NTV</string>
+    <string name="fortaleza_6"> El Señor es mi fortaleza y mi escudo; confío en él con todo mi corazón. Me da su ayuda y mi corazón se llena de alegría; prorrumpo en canciones de acción de gracias. _Salmos 28:7 NTV</string>
+    <string name="fortaleza_7">Pero tú, Señor, ten misericordia de nosotros, porque hemos esperado en ti. Sé nuestro brazo fuerte cada día y nuestra salvación en los tiempos difíciles. _Isaías 33:2 NTV </string>
+    <string name="fortaleza_8">No tengas miedo, porque yo estoy contigo; no te desalientes, porque yo soy tu Dios. Te daré fuerzas y te ayudaré; te sostendré con mi mano derecha victoriosa _Isaías 41:10 NTV</string>
+    <string name="fortaleza_9">Dios mío, tú me das nuevas fuerzas; me das la rapidez de un venado, y me pones en lugares altos _Habacuc 3:19 TLA </string>
+    <string name="fortaleza_10">Nehemías continuó diciendo: «Vayan y festejen con un banquete de deliciosos alimentos y bebidas dulces, y regalen porciones de comida a los que no tienen nada preparado. Este es un día sagrado delante de nuestro Señor. ¡No se desalienten ni entristezcan, porque el gozo del Señor es su fuerza! _Nehemías 8:10 NTV</string>
+    <string name="fortaleza_11">El Señor es mi fuerza y mi canción; él me ha dado la victoria. Él es mi Dios, y lo alabaré; es el Dios de mi padre, ¡y lo exaltaré _Éxodo 15:2 </string>
+    <string name="fortaleza_12"> ¡Tú guardarás en perfecta paz a todos los que confían en ti; a todos los que concentran en ti sus pensamientos! Confíen siempre en el Señor, porque el Señor dios es la Roca eterna. _Isaías 26:3-4 NTV</string>
+    <string name="fortaleza_13">Busquen al Señor y su fuerza, búsquenlo continuamente. _1 Crónicas 16:11 NTV</string>
+    <string name="fortaleza_14">No temas ni te desalientes, porque el propio Señor irá delante de ti. Él estará contigo; no te fallará ni te abandonará _Deuteronomio 31:8 NTV</string>
+    <string name="fortaleza_15">Por lo tanto, así dice el Dios santo de Israel: “Vuelvan a obedecerme, y yo les daré poder. Si en verdad confían en mí, manténganse en calma y quedarán a salvo. Pero ustedes me rechazan; _Isaías 30:15 TLA</string>
+    <string name="fortaleza_16">Mira que te mando que te esfuerces y seas valiente; no temas ni desmayes, porque Jehová, tu Dios, estará contigo dondequiera que vayas _Josué 1:9 RVR1995</string>
+    <string name="fortaleza_17"> Confiamos en ti, Dios nuestro, y no tenemos miedo, porque tú eres nuestro salvador, nuestro refugio y nuestra fuerza. _Isaías 12:2 TLA</string>
+
+    <string name="cansado_0">Luego dijo Jesús: «Vengan a mí todos los que están cansados y llevan cargas pesadas, y yo les daré descanso. Pónganse mi yugo. Déjenme enseñarles, porque yo soy humilde y tierno de corazón, y encontrarán descanso para el alma. _Mateo 11:28-29 NTV</string>
+    <string name="cansado_1">En paz me acostaré y asimismo dormiré, porque sólo tú, Jehová, me haces vivir confiado. _Salmos 4:8 RVR1995</string>
+    <string name="cansado_2">Si Dios no construye la casa, de nada sirve que se esfuercen los constructores. Si Dios no vigila la ciudad, de nada sirve que se desvelen los vigilantes. De nada sirve que ustedes se levanten muy temprano, ni que se acuesten muy tarde, ni que trabajen muy duro para ganarse el pan; cuando Dios quiere a alguien, le da un sueño tranquilo. _Salmos 127:1-2 TLA</string>
+    <string name="cansado_3">En cuanto al resto de ustedes, amados hermanos, nunca se cansen de hacer el bien. _2 Tesalonicenses 3:13 NTV</string>
+    <string name="cansado_4">Alabado sea el Señor, quien ha dado descanso a su pueblo Israel, tal como lo prometió. No ha faltado ni una sola palabra de todas las promesas maravillosas que hizo mediante su siervo Moisés. _1 Reyes 8:56 NTV</string>
+    <string name="cansado_5"> Pues le he dado descanso al fatigado y al afligido, alegría.  _Jeremías 31:25 NTV </string>
+    <string name="cansado_6">Por lo tanto, renueven las fuerzas de sus manos cansadas y fortalezcan sus rodillas debilitadas. Tracen un camino recto para sus pies, a fin de que los débiles y los cojos no caigan, sino que se fortalezcan. _Hebreos 12:12-13 NTV </string>
+    <string name="cansado_7">El da esfuerzo al cansado, y multiplica las fuerzas al que no tiene ningunas. _Isaías 40:29 RVR1960</string>
+    <string name="cansado_8">Mi carne y mi corazón desfallecen; Mas la roca de mi corazón y mi porción es Dios para siempre.  _Salmos 73:26 RVR1960</string>
+    <string name="cansado_9">No nos cansemos, pues, de hacer bien; porque a su tiempo segaremos, si no desmayamos. _Gálatas 6:9 RVR1960</string>
+    <string name="cansado_10"> Alma mía, en Dios solamente reposa, Porque de él es mi esperanza. _Salmos 62:5 RVR1960 </string>
+    <string name="cansado_11">Cuando te acuestes, no tendrás temor, Sino que te acostarás, y tu sueño será grato. _Proverbios 3:24 RVR1960</string>
+    <string name="cansado_12">Y él dijo: Mi presencia irá contigo, y te daré descanso. _Éxodo 33:14 RVR1960 </string>
+    <string name="cansado_13"> Todo lo puedo en Cristo que me fortalece. _Filipenses 4:13 RVR1960</string>
+    <string name="cansado_14">El Señor oye a los suyos cuando claman a él por ayuda; los rescata de todas sus dificultades. _Salmos 34:17 NTV</string>
+    <string name="cansado_15">Sólo Dios me da tranquilidad; sólo él me da confianza. _Salmos 62:5 TLA</string>
+    <string name="cansado_16">En cambio, los que confían en el Señor encontrarán nuevas fuerzas; volarán alto, como con alas de águila. Correrán y no se cansarán; caminarán y no desmayarán. _Isaías 40:31 NTV</string>
+    <string name="cansado_17">Les doy la paz, mi propia paz, que no es como la paz que se desea en este mundo. No se preocupen ni tengan miedo por lo que pronto va a pasar. _Juan 14:27 TLA</string>
+
+    <string name="heartbreak_0">Dios siempre está cerca para salvar a los que no tienen ni ánimo ni esperanza. _Salmos 34:18 TLA </string>
+    <string name="heartbreak_1">Él sana a los de corazón quebrantado y les venda las heridas. _Salmos 147:3 NTV</string>
+    <string name="heartbreak_2">ni los poderes del cielo ni los del infierno, ni nada de lo creado por Dios. ¡Nada, absolutamente nada, podrá separarnos del amor que Dios nos ha mostrado por medio de nuestro Señor Jesucristo! _Romanos 8:39 TLA</string>
+    <string name="heartbreak_3">El verdadero amor no consiste en que nosotros hayamos amado a Dios, sino en que él nos amó y envió a su Hijo, para que nosotros fuéramos perdonados por medio de su sacrificio. _1 Juan 4:10 TLA</string>
+    <string name="heartbreak_4">Tú me hiciste pasar por muchos aprietos y problemas, pero volverás a darme vida: ¡de lo profundo de la tumba volverás a levantarme! _Salmos 71:20 TLA</string>
+    <string name="heartbreak_5"> Estoy seguro de que los sufrimientos por los que ahora pasamos no son nada, si los comparamos con la gloriosa vida que Dios nos dará junto a él. _Romanos 8:18 TLA</string>
+    <string name="heartbreak_6">Mis planes para ustedes solamente yo los sé, y no son para su mal, sino para su bien. Voy a darles un futuro lleno de bienestar. _Jeremías 29:11 TLA</string>
+    <string name="heartbreak_7">Estamos atribulados en todo, pero no angustiados; en apuros, pero no desesperados; perseguidos, pero no desamparados; derribados, pero no destruidos. Dondequiera que vamos, llevamos siempre en el cuerpo la muerte de Jesús, para que también la vida de Jesús se manifieste en nuestros cuerpos _2 Corintios 4:8-10 RVR1995</string>
+    <string name="heartbreak_8">Cercano está Jehová a los quebrantados de corazón y salva a los contritos de espíritu. _Salmos 34:18 RVR1995</string>
+    <string name="heartbreak_9">Él secará sus lágrimas, y no morirán jamás. Tampoco volverán a llorar, ni a lamentarse, ni sentirán ningún dolor, porque lo que antes existía ha dejado de existir _Apocalipsis 21:4 TLA</string>
+    <string name="heartbreak_10"> ¡Así que sé fuerte y valiente! No tengas miedo ni sientas pánico frente a ellos, porque el Señor tu Dios, él mismo irá delante de ti. No te fallará ni te abandonará _Deuteronomio 31:6 NTV</string>
+    <string name="heartbreak_11">Mi carne y mi corazón desfallecen; Mas la roca de mi corazón y mi porción es Dios para siempre.  _Salmos 73:26 RVR1960</string>
+    <string name="heartbreak_12">Deléitate en el Señor, y él te concederá los deseos de tu corazón. Entrega al Señor todo lo que haces; confía en él, y él te ayudará _Salmo 37:4-5 NTV</string>
+    <string name="heartbreak_13">Dios es nuestro refugio y nuestra fuerza; siempre está dispuesto a ayudar en tiempos de dificultad. Por lo tanto, no temeremos cuando vengan terremotos y las montañas se derrumben en el mar. _Salmos 46:1-2 NTV</string>
+    <string name="heartbreak_14">Así que podemos decir con toda confianza: «El Señor es quien me ayuda, por tanto, no temeré. ¿Qué me puede hacer un simple mortal? _Hebreos 13:6 NTV</string>
+    <string name="heartbreak_15">No tiemblen; no tengan miedo. ¿Acaso no proclamé mis propósitos para ustedes hace mucho tiempo? Ustedes son mis testigos, ¿hay algún otro Dios? ¡No! No hay otra Roca, ni una sola». _Isaías 44:8 NTV</string>
+    <string name="heartbreak_16">Entrégale tus cargas al Señor, y él cuidará de ti; no permitirá que los justos tropiecen y caigan _Salmos 55:22 NTV</string>
+
+    <string name="lengua_0">La La respuesta apacible desvía el enojo, pero las palabras ásperas encienden los ánimos. _Proverbios 15:1 NTV </string>
+    <string name="lengua_1">La La lengua de los sabios hace que el conocimiento sea atractivo, pero la boca de un necio escupe tonterías. _Proverbios 15:02 NTV </string>
+    <string name="lengua_2">Es cierto que todos cometemos muchos errores. Pues, si pudiéramos dominar la lengua, seríamos perfectos, capaces de controlarnos en todo sentido. _Santiago 3:2 NTV </string>
+    <string name="lengua_3">Los labios del sabio dan buenos consejos; el corazón del necio no tiene nada para ofrecer. _Proverbios 15:7 NTV </string>
+    <string name="lengua_4">Evita toda expresión perversa;aléjate de las palabras corruptas. _Proverbios 04:24 NTV </string>
+    <string name="lengua_5">¡Entonces refrena tu lengua de hablar el mal y tus labios de decir mentiras! _Salmos 34:13 NTV </string>
+    <string name="lengua_6">Las palabras sabias son más valiosas que mucho oro y multitud de rubíes. _Proverbios 20:15 NTV </string>
+    <string name="lengua_7">SEÑOR, pon guarda a mi boca; vigila la puerta de mis labios. _Salmos 141:03 LBA </string>
+    <string name="lengua_8">El que guarda su boca guarda su alma; Mas el que mucho abre sus labios tendrá calamidad. _Proverbios 13:3 RVR </string>
+    <string name="lengua_9">y he puesto mis palabras en tu boca, y con la sombra de mi mano te he cubierto al establecer los cielos, poner los cimientos de la tierra y decir a Sion: “Tú eres mi pueblo.” _Isaias 51:16 LBLA </string>
+    <string name="lengua_10">no es lo que entra en la boca lo que contamina al hombre; sino lo que sale de la boca, eso es lo que contamina al hombre. _MATEO 15:11 LBLA </string>
+    <string name="lengua_11">Yo dije: Atenderé a mis caminos, Para no pecar con mi lengua; Guardaré mi boca con freno, En tanto que el impío esté delante de mí. _Salmos 39:1 RVR </string>
+    <string name="lengua_12">Y me dijo Jehová: No digas: Soy un niño; porque a todo lo que te envíe irás tú, y dirás todo lo que te mande. _Jeremías 1:7 RVR </string>
+    <string name="lengua_13">Del fruto de la boca del hombre se llenará su vientre; Se saciará del producto de sus labios. _Proverbios 18:20 RVR </string>
+    <string name="lengua_14">Que las palabras de mi boca y la meditación de mi corazón sean de tu agrado, oh Señor, mi roca y mi redentor. _Salmos 19:14 NTV </string>
+    <string name="lengua_15">Mi boca expresará la verdad, pues mis labios detestan la mentira. _Proverbios 8:7 NVI </string>
+    <string name="lengua_16">Porque con el corazón se cree para justicia, pero con la boca se confiesa para salvación. _Romanos 10:10 RVR </string>
+    <string name="lengua_17">Mi boca hablará sabiduría, y la meditación de mi corazón será entendimiento. _Salmos 49:3 LBLA </string>
+    <string name="lengua_18">La verdadera instrucción estaba en su boca, y no se hallaba iniquidad en sus labios; en paz y rectitud caminaba conmigo, y apartaba a muchos de la iniquidad. _Malaquías 2:6 LBLA </string>
+    <string name="lengua_19">¡Dejen de ser tan orgullosos y altaneros!¡No hablen con tanta arrogancia! Pues el Señor es un Dios que sabe lo que han hecho; él juzgará sus acciones. _1 Samuel 2:3 NTV </string>
+    <string name="lengua_20">Ellos disfrutaron del dulce sabor de la maldad, dejando que se deshiciera bajo su lengua. La saborearon, dejándola mucho tiempo en la boca; pero de repente, la comida en su estómago se vuelve ácida, un veneno en su vientre. _Job 20:12-14 NTV </string>
+    <string name="lengua_21">Mis enemigos no pueden decir la verdad; su deseo más profundo es destruir a los demás. Lo que hablan es repugnante, como el mal olor de una tumba abierta; su lengua está llena de adulaciones. _Salmos 5:9 NTV </string>
+    <string name="lengua_22">Todo lo que dicen es retorcido y engañoso; se niegan a actuar con sabiduría o a hacer el bien. _Salmos 36:3 NTV </string>
+    <string name="lengua_23">Tienen la boca llena de maldad, y la lengua repleta de mentiras. _Salmos 50:19 NTV </string>
+    <string name="lengua_24">Pues los labios de una mujer inmoral son tan dulces como la miel y su boca es más suave que el aceite. Pero al final ella resulta ser tan amarga como el veneno, tan peligrosa como una espada de dos filos. _Proverbios 5:3-4 NTV </string>
+
+
+</resources>
+
+

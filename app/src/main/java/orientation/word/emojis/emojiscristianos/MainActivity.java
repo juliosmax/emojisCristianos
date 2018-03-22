@@ -26,7 +26,7 @@ public class MainActivity extends AppCompatActivity {
 
     TextView versiculo,txtHome,libroYcap,txtVattribution;
     boolean isHome=true;
-    ImageView squareGold;
+ //   ImageView squareGold;
     String emoji=null;
 
 
@@ -57,11 +57,13 @@ public class MainActivity extends AppCompatActivity {
         arrIcono.add(new Icono("dinero",R.drawable.money));
         arrIcono.add(new Icono("asombro",R.drawable.fear_face));
         arrIcono.add(new Icono("suenio",R.drawable.sleeping_face));
-        arrIcono.add(new Icono("demonioriendo",R.drawable.smiling_devil));
+        arrIcono.add(new Icono("malvado",R.drawable.smiling_devil));
         arrIcono.add(new Icono("feliz",R.drawable.smiling_face));
-        arrIcono.add(new Icono("angel",R.drawable.smiling_halo));
+        arrIcono.add(new Icono("santidad",R.drawable.smiling_halo));
         arrIcono.add(new Icono("serpiente",R.drawable.snake));
         arrIcono.add(new Icono("enojado",R.drawable.very_angry));
+        arrIcono.add(new Icono("oveja",R.drawable.oveja));
+        arrIcono.add(new Icono("prudencia",R.drawable.prudencia));
 
 
 
@@ -80,7 +82,7 @@ public class MainActivity extends AppCompatActivity {
 
 
         //Despliegue el Home
-        squareGold=findViewById(R.id.id_imgdorado);
+       // squareGold=findViewById(R.id.id_imgdorado);
         ImageButton btnHome=findViewById(R.id.id_btnhome);
         btnHome.setOnClickListener(new View.OnClickListener() {
             @Override
@@ -88,7 +90,7 @@ public class MainActivity extends AppCompatActivity {
                 if(!isHome)
                 {   versiculo.setVisibility(View.INVISIBLE);
                     libroYcap.setVisibility(View.INVISIBLE);
-                    squareGold.setVisibility(View.INVISIBLE);
+                  //  squareGold.setVisibility(View.INVISIBLE);
                     txtHome.setVisibility(View.VISIBLE);
                     isHome=true;
                 }
@@ -129,7 +131,7 @@ public class MainActivity extends AppCompatActivity {
 
                  if(isHome){
                      isHome=false;
-                     squareGold.setVisibility(View.VISIBLE);
+                  //   squareGold.setVisibility(View.VISIBLE);
                      versiculo.setVisibility(View.VISIBLE);
                      libroYcap.setVisibility(View.VISIBLE);
                      txtHome.setVisibility(View.INVISIBLE);
@@ -235,7 +237,72 @@ public class MainActivity extends AppCompatActivity {
                          libroYcap.setText(captxt);
                          emoji=emojisIcons.FACE_WITH_HEAD_BANDAGE;
                          break;
+                     case "oveja":
+                         randomVerso = randomGenerator.nextInt(7);
+                         id = getResources().getIdentifier("oveja_"+(randomVerso), "string", getPackageName());
+                         texto=getString(id);
+                         indexTexto=texto.indexOf("_");
+                         captxt=texto.substring(indexTexto+1);
+                         texto=texto.substring(0,indexTexto);
+                         versiculo.setText(texto);
+                         libroYcap.setText(captxt);
+                         emoji=emojisIcons.FACE_WITH_HEAD_BANDAGE;
+                         break;
+                     case "prudencia":
+                         randomVerso = randomGenerator.nextInt(24);
+                         id = getResources().getIdentifier("lengua_"+(randomVerso), "string", getPackageName());
+                         texto=getString(id);
+                         indexTexto=texto.indexOf("_");
+                         captxt=texto.substring(indexTexto+1);
+                         texto=texto.substring(0,indexTexto);
+                         versiculo.setText(texto);
+                         libroYcap.setText(captxt);
+                         emoji=emojisIcons.FACE_WITH_HEAD_BANDAGE;
+                         break;
+                     case "enamorado":
+                         randomVerso = randomGenerator.nextInt(10);
+                         id = getResources().getIdentifier("enamorado_"+(randomVerso), "string", getPackageName());
+                         texto=getString(id);
+                         indexTexto=texto.indexOf("_");
+                         captxt=texto.substring(indexTexto+1);
+                         texto=texto.substring(0,indexTexto);
+                         versiculo.setText(texto);
+                         libroYcap.setText(captxt);
+                         emoji=emojisIcons.FACE_WITH_HEAD_BANDAGE;
+                         break;
+                     case "asombro":
 
+                         id = getResources().getIdentifier("miedo_"+(randomVerso), "string", getPackageName());
+                         texto=getString(id);
+                         indexTexto=texto.indexOf("_");
+                         captxt=texto.substring(indexTexto+1);
+                         texto=texto.substring(0,indexTexto);
+                         versiculo.setText(texto);
+                         libroYcap.setText(captxt);
+                         emoji=emojisIcons.FACE_WITH_HEAD_BANDAGE;
+                         break;
+                     case "malvado":
+                         randomVerso = randomGenerator.nextInt(13);
+                         id = getResources().getIdentifier("malvado_"+(randomVerso), "string", getPackageName());
+                         texto=getString(id);
+                         indexTexto=texto.indexOf("_");
+                         captxt=texto.substring(indexTexto+1);
+                         texto=texto.substring(0,indexTexto);
+                         versiculo.setText(texto);
+                         libroYcap.setText(captxt);
+                         emoji=emojisIcons.FACE_WITH_HEAD_BANDAGE;
+                         break;
+                     case "santidad":
+
+                         id = getResources().getIdentifier("santidad_"+(randomVerso), "string", getPackageName());
+                         texto=getString(id);
+                         indexTexto=texto.indexOf("_");
+                         captxt=texto.substring(indexTexto+1);
+                         texto=texto.substring(0,indexTexto);
+                         versiculo.setText(texto);
+                         libroYcap.setText(captxt);
+                         emoji=emojisIcons.FACE_WITH_HEAD_BANDAGE;
+                         break;
                      default:
                          versiculo.setText("default");
                          break;

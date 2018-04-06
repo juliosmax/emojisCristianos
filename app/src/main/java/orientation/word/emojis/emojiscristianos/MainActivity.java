@@ -64,6 +64,7 @@ public class MainActivity extends AppCompatActivity {
         arrIcono.add(new Icono("enojado",R.drawable.very_angry));
         arrIcono.add(new Icono("oveja",R.drawable.oveja));
         arrIcono.add(new Icono("prudencia",R.drawable.prudencia));
+        arrIcono.add(new Icono("sad",R.drawable.sad));
 
 
 
@@ -295,6 +296,17 @@ public class MainActivity extends AppCompatActivity {
                      case "santidad":
 
                          id = getResources().getIdentifier("santidad_"+(randomVerso), "string", getPackageName());
+                         texto=getString(id);
+                         indexTexto=texto.indexOf("_");
+                         captxt=texto.substring(indexTexto+1);
+                         texto=texto.substring(0,indexTexto);
+                         versiculo.setText(texto);
+                         libroYcap.setText(captxt);
+                         emoji=emojisIcons.FACE_WITH_HEAD_BANDAGE;
+                         break;
+                     case "sad":
+                         randomVerso = randomGenerator.nextInt(11);
+                         id = getResources().getIdentifier("sad_"+(randomVerso), "string", getPackageName());
                          texto=getString(id);
                          indexTexto=texto.indexOf("_");
                          captxt=texto.substring(indexTexto+1);

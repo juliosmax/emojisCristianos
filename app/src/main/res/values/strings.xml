@@ -2,7 +2,7 @@
     <string name="app_name">emojisCristianos</string>
     <string name="ask">Como te sientes?</string>
     <string name="compartir">Compartir</string>
-    <string name="home">Recibe un versiculo que te guie en la senda de la vida :)</string>
+    <string name="home">Recibe un versiculo que te guie en la senda de la vida, presiona un emoji que represente tu sentir, puedes presionar incluso el mismo emoji varias veces para obtener diferentes versos que te aconsejen :)</string>
 
 
     <string name="attribution">Thanks to <a href="https://www.emojione.com/">emoji</a> for providing free emoji icons</string>
@@ -147,8 +147,8 @@
     <string name="heartbreak_15">No tiemblen; no tengan miedo. ¿Acaso no proclamé mis propósitos para ustedes hace mucho tiempo? Ustedes son mis testigos, ¿hay algún otro Dios? ¡No! No hay otra Roca, ni una sola». _Isaías 44:8 NTV</string>
     <string name="heartbreak_16">Entrégale tus cargas al Señor, y él cuidará de ti; no permitirá que los justos tropiecen y caigan _Salmos 55:22 NTV</string>
 
-    <string name="lengua_0">La La respuesta apacible desvía el enojo, pero las palabras ásperas encienden los ánimos. _Proverbios 15:1 NTV </string>
-    <string name="lengua_1">La La lengua de los sabios hace que el conocimiento sea atractivo, pero la boca de un necio escupe tonterías. _Proverbios 15:02 NTV </string>
+    <string name="lengua_0">La respuesta apacible desvía el enojo, pero las palabras ásperas encienden los ánimos. _Proverbios 15:1 NTV </string>
+    <string name="lengua_1">La lengua de los sabios hace que el conocimiento sea atractivo, pero la boca de un necio escupe tonterías. _Proverbios 15:02 NTV </string>
     <string name="lengua_2">Es cierto que todos cometemos muchos errores. Pues, si pudiéramos dominar la lengua, seríamos perfectos, capaces de controlarnos en todo sentido. _Santiago 3:2 NTV </string>
     <string name="lengua_3">Los labios del sabio dan buenos consejos; el corazón del necio no tiene nada para ofrecer. _Proverbios 15:7 NTV </string>
     <string name="lengua_4">Evita toda expresión perversa;aléjate de las palabras corruptas. _Proverbios 04:24 NTV </string>
@@ -246,6 +246,20 @@
     <string name="santidad_15">Cantad a Dios, cantad salmos a su nombre; exaltad al que cabalga sobre los cielos. Jah es su nombre: ¡alegraos delante de él! Padre de huérfanos y defensor de viudas es Dios en su santa morada. _Salmos 68:4-5 RVR1995</string>
     <string name="santidad_16"> Sed, pues, vosotros perfectos, como vuestro Padre que está en los cielos es perfecto. _Mateo 5:48 RVR1995</string>
     <string name="santidad_17">El temor de Jehová es el principio de la sabiduría; el conocimiento del Santísimo es la inteligencia. _Proverbios 9:10 RVR1995</string>
+
+    <string name="sad_0">Más vale llorar que reír; el llanto nos hace madurar.  _Eclesiastés 7:3</string>
+    <string name="sad_1">Tú, que me has hecho ver muchas angustias y males, Volverás a darme vida, Y de nuevo me levantarás de los abismos de la tierra. Aumentarás mi grandeza, Y volverás a consolarme _Salmos 71:20-21</string>
+    <string name="sad_2">Aunque Jerusalén está en ruinas, yo la consolaré y la convertiré en un hermoso jardín. Será como el jardín que planté en Edén. Entonces Jerusalén celebrará y cantará canciones de alegría y de acción de gracias _Isaías 51:3 TLA</string>
+    <string name="sad_3">Y oí una gran voz del cielo que decía: He aquí el tabernáculo de Dios con los hombres, y él morará con ellos; y ellos serán su pueblo, y Dios mismo estará con ellos como su Dios. Enjugará Dios toda lágrima de los ojos de ellos; y ya no habrá muerte, ni habrá más llanto, ni clamor, ni dolor; porque las primeras cosas pasaron _Apocalipsis 21:3-4</string>
+    <string name="sad_4">Estas cosas os he hablado para que en mí tengáis paz. En el mundo tendréis aflicción; pero confiad, yo he vencido al mundo _Juan 16:33</string>
+    <string name="sad_5">Nadie te podrá hacer frente en todos los días de tu vida; como estuve con Moisés, estaré contigo; no te dejaré, ni te desampararé _Josué 1:5</string>
+    <string name="sad_6">Yo amo y deseo tu palabra pues me llena de alegría. Tus promesas me dan esperanza; ¡no te olvides de ellas! Tus promesas me dan vida; me consuelan en mi dolor _Salmos 119:47-50 TLA</string>
+    <string name="sad_7">Dios escucha a los suyos y los libra de su angustia _Salmos 34:17</string>
+    <string name="sad_8">Puse mi esperanza en el Señor, y él se inclinó para escuchar mis gritos; me salvó de la fosa mortal, me libró de hundirme en el pantano. Afirmó mis pies sobre una roca; dio firmeza a mis pisadas. Hizo brotar de mis labios un nuevo canto, un canto de alabanza a nuestro Dios. Muchos, al ver esto, se sintieron conmovidos y pusieron su confianza en el Señor _Salmos 40:1-3</string>
+    <string name="sad_9">¿Por qué voy a inquietarme? ¿Por qué me voy a angustiar? En Dios pondré mi esperanza, y todavía lo alabaré. ¡Él es mi Salvador y mi Dios! _Salmos 42:11</string>
+    <string name="sad_10">Si alguno de ustedes está triste, póngase a orar. Si está alegre, alabe a Dios con cánticos. _Santiago 5:13-14</string>
+    <string name="sad_11">Cuando Dios los corrija con su mano poderosa, acéptenlo con humildad. Después, cuando llegue la hora, él los exaltará. Confíen a Dios todas sus preocupaciones, porque él cuida de ustedes. _1 Pedro 5:6-7 </string>
+
 
 </resources>
 

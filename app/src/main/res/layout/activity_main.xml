@@ -2,7 +2,7 @@
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
-    android:background="@drawable/landscape1"
+    android:background="@drawable/landscapeverde"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:orientation="vertical"
@@ -64,7 +64,7 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content">
 
-        <ImageView
+        <!--ImageView
             android:id="@+id/id_imgdorado"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
@@ -72,7 +72,7 @@
             android:src="@drawable/goldsquare2modi"
             android:visibility="invisible"
 
-            />
+            /-->
 
         <TextView
             android:id="@+id/id_versiculo"
@@ -81,15 +81,18 @@
             android:paddingLeft="30dp"
             android:paddingRight="30dp"
             android:paddingTop="40dp"
-            android:textSize="14dp" />
+            android:textSize="18dp"
+            android:elevation="3dp"
+            android:textColor="#FFFFFF"/>
 
         <TextView
             android:id="@+id/id_libroYcap"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:gravity="center"
-            android:paddingTop="150dp"
-
+            android:gravity="right"
+            android:paddingRight="16dp"
+            android:paddingTop="230dp"
+            android:textColor="#FFFFFF"
             android:textSize="14dp"
             android:textStyle="bold" />
 
@@ -105,8 +108,9 @@
                 android:layout_height="wrap_content"
                 android:layout_alignParentRight="true"
                 android:gravity="center"
-                android:paddingLeft="60dp"
+
                 android:paddingRight="16dp"
+                android:textColor="#FFFFFF"
                 android:paddingTop="50dp"
                 android:text="@string/home"
                 android:textSize="20dp" />
@@ -135,9 +139,10 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:elevation="4dp"
-        android:paddingTop="150dp"
+        android:paddingTop="100dp"
         android:text="@string/ask"
         android:textSize="18dp"
+        android:textColor="#FFFFFF"
         android:textStyle="italic" />
 
     <LinearLayout

@@ -2,7 +2,7 @@
     <string name="app_name">emojisCristianos</string>
     <string name="ask">Como te sientes?</string>
     <string name="compartir">Compartir</string>
-    <string name="home">Recibe un versiculo que te guie en la senda de la vida :)</string>
+    <string name="home">Recibe un versiculo que te guie en la senda de la vida, presiona un emoji que represente tu sentir, puedes presionar incluso el mismo emoji varias veces para obtener diferentes versos que te aconsejen :)</string>
 
 
     <string name="attribution">Thanks to <a href="https://www.emojione.com/">emoji</a> for providing free emoji icons</string>
@@ -147,8 +147,8 @@
     <string name="heartbreak_15">No tiemblen; no tengan miedo. ¿Acaso no proclamé mis propósitos para ustedes hace mucho tiempo? Ustedes son mis testigos, ¿hay algún otro Dios? ¡No! No hay otra Roca, ni una sola». _Isaías 44:8 NTV</string>
     <string name="heartbreak_16">Entrégale tus cargas al Señor, y él cuidará de ti; no permitirá que los justos tropiecen y caigan _Salmos 55:22 NTV</string>
 
-    <string name="lengua_0">La La respuesta apacible desvía el enojo, pero las palabras ásperas encienden los ánimos. _Proverbios 15:1 NTV </string>
-    <string name="lengua_1">La La lengua de los sabios hace que el conocimiento sea atractivo, pero la boca de un necio escupe tonterías. _Proverbios 15:02 NTV </string>
+    <string name="lengua_0">La respuesta apacible desvía el enojo, pero las palabras ásperas encienden los ánimos. _Proverbios 15:1 NTV </string>
+    <string name="lengua_1">La lengua de los sabios hace que el conocimiento sea atractivo, pero la boca de un necio escupe tonterías. _Proverbios 15:02 NTV </string>
     <string name="lengua_2">Es cierto que todos cometemos muchos errores. Pues, si pudiéramos dominar la lengua, seríamos perfectos, capaces de controlarnos en todo sentido. _Santiago 3:2 NTV </string>
     <string name="lengua_3">Los labios del sabio dan buenos consejos; el corazón del necio no tiene nada para ofrecer. _Proverbios 15:7 NTV </string>
     <string name="lengua_4">Evita toda expresión perversa;aléjate de las palabras corruptas. _Proverbios 04:24 NTV </string>
@@ -172,6 +172,93 @@
     <string name="lengua_22">Todo lo que dicen es retorcido y engañoso; se niegan a actuar con sabiduría o a hacer el bien. _Salmos 36:3 NTV </string>
     <string name="lengua_23">Tienen la boca llena de maldad, y la lengua repleta de mentiras. _Salmos 50:19 NTV </string>
     <string name="lengua_24">Pues los labios de una mujer inmoral son tan dulces como la miel y su boca es más suave que el aceite. Pero al final ella resulta ser tan amarga como el veneno, tan peligrosa como una espada de dos filos. _Proverbios 5:3-4 NTV </string>
+
+    <string name="oveja_0">Después dio a luz a su hermano Abel. Y Abel fue pastor de ovejas, y Caín fue labrador de la tierra. _Génesis 4:2 </string>
+    <string name="oveja_1">Y Abel trajo también de los primogénitos de sus ovejas, de lo más gordo de ellas. Y miró Jehová con agrado a Abel y a su ofrenda. _Génesis 4:4 </string>
+    <string name="oveja_2">¿Qué hombre de vosotros, teniendo cien ovejas, si pierde una de ellas, no deja las noventa y nueve en el desierto, y va tras la que se perdió, hasta encontrarla? _Lucas 15:4 </string>
+    <string name="oveja_3">y al llegar a casa, reúne a sus amigos y vecinos, diciéndoles: Gozaos conmigo, porque he encontrado mi oveja que se había perdido. _Lucas 15:6 </string>
+    <string name="oveja_4">Yo soy el buen pastor; y conozco mis ovejas, y las mías me conocen, _Juan 10:14 </string>
+    <string name="oveja_5">así como el Padre me conoce, y yo conozco al Padre; y pongo mi vida por las ovejas. _Juan 10:15 </string>
+    <string name="oveja_6">El pasaje de la Escritura que leía era este: Como oveja a la muerte fue llevado; Y como cordero mudo delante del que lo trasquila, Así no abrió su boca. _Hechos 8:32 </string>
+    <string name="oveja_7">Como está escrito: Por causa de ti somos muertos todo el tiempo; Somos contados como ovejas de matadero. _Romanos 8:36 </string>
+
+    <string name="enamorado_0">Deléitate en el Señor, y él te concederá los deseos de tu corazón _Salmos 37:4 NTV </string>
+    <string name="enamorado_1">Es mejor ser dos que uno, porque ambos pueden ayudarse mutuamente a lograr el éxito. Si uno cae, el otro puede darle la mano y ayudarle; pero el que cae y está solo, ese sí que está en problemas. _Eclesiastés 4:9-10 NTV </string>
+    <string name="enamorado_2">Vive feliz junto a la mujer que amas, todos los insignificantes días de vida que Dios te haya dado bajo el sol. La esposa que Dios te da es la recompensa por todo tu esfuerzo terrenal. _Eclesiastés 9:9 NTV</string>
+    <string name="enamorado_3"> Jesús contestó: —“Ama al Señor tu Dios con todo tu corazón, con toda tu alma y con toda tu mente”. Este es el primer mandamiento y el más importante. Hay un segundo mandamiento que es igualmente importante: “Ama a tu prójimo como a ti mismo”. _Mateo 22:37-39 NTV</string>
+    <string name="enamorado_4">Mujer virtuosa, ¿quién la hallará? Su valor sobrepasa largamente al de las piedras preciosas. _Proverbios 31:10 RVR1995</string>
+    <string name="enamorado_5"> ¡Ah, si me besaras con besos de tu boca!, porque mejores son tus amores que el vino. _Cantares 1:2 RVR1995</string>
+    <string name="enamorado_6"> El amor es sufrido, es benigno; el amor no tiene envidia; el amor no es jactancioso, no se envanece, no hace nada indebido, no busca lo suyo, no se irrita, no guarda rencor; no se goza de la injusticia, sino que se goza de la verdad. Todo lo sufre, todo lo cree, todo lo espera, todo lo soporta. _1 Corintios 13:4-7 RVR1995</string>
+    <string name="enamorado_7"> ¡Sea bendito tu manantial y alégrate con la mujer de tu juventud, cierva amada, graciosa gacela! Que sus caricias te satisfagan en todo tiempo y recréate siempre en su amor. _Proverbios 5:18-19 RVR1995</string>
+    <string name="enamorado_8">El odio provoca peleas, pero el amor cubre todas las ofensas. _Proverbios 10:12 NTV</string>
+    <string name="enamorado_9">Nadie jamás ha visto a Dios; pero si nos amamos unos a otros, Dios vive en nosotros y su amor llega a la máxima expresión en nosotros. _1 Juan 4:12 NTV</string>
+    <string name="enamorado_10">Sobre todo, vístanse de amor, lo cual nos une a todos en perfecta armonía. _Colosenses 3:14 NTV</string>
+
+    <string name="miedo_0">No tengas miedo, porque yo estoy contigo; no te desalientes, porque yo soy tu Dios. Te daré fuerzas y te ayudaré; te sostendré con mi mano derecha victoriosa. _Isaías 41:10 NTV </string>
+    <string name="miedo_1">Pero cuando tenga miedo, en ti pondré mi confianza.  _Salmos 56:3 NTV </string>
+    <string name="miedo_2">Yo te pido que seas fuerte y valiente, que no te desanimes ni tengas miedo, porque yo soy tu Dios, y te ayudaré por dondequiera que vayas.  _Josué 1:9 TLA</string>
+    <string name="miedo_3">Israelitas, yo soy su Dios y los he tomado de la mano; no deben tener miedo, porque cuentan con mi ayuda. _Isaías 41:13 TLA</string>
+    <string name="miedo_4">No se preocupen por nada. Más bien, oren y pídanle a Dios todo lo que necesiten, y sean agradecidos. Así Dios les dará su paz, esa paz que la gente de este mundo no alcanza a comprender, pero que protege el corazón y el entendimiento de los que ya son de Cristo. _Filipenses 4:6-7 TLA</string>
+    <string name="miedo_5"> Dios está conmigo: no tengo miedo. Nadie puede hacerme daño _Salmos 118:6 TLA</string>
+    <string name="miedo_6"> La persona que ama no tiene miedo. Donde hay amor no hay temor. Al contrario, el verdadero amor quita el miedo. Si alguien tiene miedo de que Dios lo castigue, es porque no ha aprendido a amar. _1 Juan 4:18 TLA </string>
+    <string name="miedo_7"> Aunque ande en valle de sombra de muerte, no temeré mal alguno, porque tú estarás conmigo; tu vara y tu cayado me infundirán aliento. _Salmos 23:4 RVR1995 </string>
+    <string name="miedo_8">Pongan todas sus preocupaciones y ansiedades en las manos de Dios, porque él cuida de ustedes. _1 Pedro 5:7 NTV</string>
+    <string name="miedo_9">Temer a la gente es una trampa peligrosa, pero confiar en el Señor significa seguridad. _Proverbios 29:25 NTV</string>
+    <string name="miedo_10">El Señor es mi luz y mi salvación, entonces ¿por qué habría de temer? El Señor es mi fortaleza y me protege del peligro, entonces ¿por qué habría de temblar? _Salmos 27:1 NTV</string>
+    <string name="miedo_11"> Pues Dios no nos ha dado un espíritu de temor y timidez sino de poder, amor y autodisciplina. _2 Timoteo 1:7 NTV</string>
+    <string name="miedo_12">Oré al Señor, y él me respondió; me libró de todos mis temores. _Salmos 34:4 NTV</string>
+    <string name="miedo_13"> ¡Así que sé fuerte y valiente! No tengas miedo ni sientas pánico frente a ellos, porque el Señor tu Dios, él mismo irá delante de ti. No te fallará ni te abandonará». _Deuteronomio 31:6 NTV</string>
+    <string name="miedo_14">No dejen que el corazón se les llene de angustia; confíen en Dios y confíen también en mí. _Juan 14:1 NTV </string>
+    <string name="miedo_15"> Y ustedes no han recibido un espíritu que los esclavice al miedo. En cambio, recibieron el Espíritu de Dios cuando él los adoptó como sus propios hijos. Ahora lo llamamos «Abba, Padre». _Romanos 8:15 NTV</string>
+    <string name="miedo_16">¿Cuánto cuestan dos gorriones: una moneda de cobre? Sin embargo, ni un solo gorrión puede caer a tierra sin que el Padre lo sepa. En cuanto a ustedes, cada cabello de su cabeza está contado. Así que no tengan miedo; para Dios ustedes son más valiosos que toda una bandada de gorriones. _Mateo 10:29-31 NTV</string>
+    <string name="miedo_17">No temas ni te desalientes, porque el propio Señor irá delante de ti. Él estará contigo; no te fallará ni te abandonará». _Deuteronomio 31:8 NTV</string>
+
+    <string name="malvado_0">pero los pecadores serán todos destruidos; ¡el único futuro de los malvados es su total destrucción! _Salmos 37:38 TLA </string>
+    <string name="malvado_1">La familia del malvado será destruida, pero el hogar del bueno prosperará. _Proverbios 14:11 TLA</string>
+    <string name="malvado_2">Esa gente es tan malvada que acabarás por destruirla. Pero tú, mi Dios, eres mi más alto escondite; ¡eres como una roca en la que encuentro refugio! _Salmos 94:23 TLA </string>
+    <string name="malvado_3">No les importa nada lo que el Señor hizo ni lo que sus manos crearon. Por lo tanto, él los derrumbará y, ¡jamás serán reconstruidos! _Salmos 28:5 NTV</string>
+    <string name="malvado_4">aunque los malvados broten como maleza y los malhechores florezcan, serán destruidos para siempre. _Salmos 92:7 NTV</string>
+    <string name="malvado_5">El camino del Señor es una fortaleza para los que andan en integridad, pero destruye a los que hacen maldad. _Proverbios 10:29 NTV</string>
+    <string name="malvado_6">¡Qué aflicción les espera a los que me han abandonado! Déjenlos morir porque se han rebelado contra mí. Yo deseaba redimirlos pero han dicho mentiras de mí _Oseas 7:13 NTV </string>
+    <string name="malvado_7">Algo parecido ha hecho Dios. Ha querido dar un ejemplo de castigo, para que todo el mundo conozca su poder. Por eso tuvo mucha paciencia con los que merecían ser castigados y destruidos.  _Romanos 9:22 TLA</string>
+    <string name="malvado_8">y los destruirá para siempre. Los echará lejos de su presencia, donde no podrán compartir su gloria y su poder. _2 Tesalonicenses 1:9 TLA</string>
+    <string name="malvado_9"> No dejes que nadie olvide estas cosas. Pon a Dios como testigo, y advierte a los miembros de la iglesia que no deben seguir discutiendo. Esas discusiones no ayudan a nadie, y dañan a quienes las oyen. _2 Timoteo 2:14 TLA </string>
+    <string name="malvado_10"> Llevados por la avaricia, inventarán mentiras ingeniosas para apoderarse del dinero de ustedes; pero Dios los condenó desde hace mucho, y su destrucción no tardará en llegar.  _2 Pedro 2:3 NTV </string>
+    <string name="malvado_11">Esos hombres no entienden nada, todo lo hacen por capricho, y discuten acerca de lo que no entienden; son como los animales, que nacen para que los atrapen y los maten.   _2 Pedro 2:12</string>
+    <string name="malvado_12">pero, con ese mismo poder, ha dado la orden de que, en el momento indicado, los cielos y la tierra que ahora existen sean destruidos con fuego. Serán quemados el día en que Dios juzgue a todos y destruya a los que hacen el mal. _2 Pedro 3:7 TLA</string>
+    <string name="malvado_13"> Sin embargo, esta gente insulta hasta lo que no conoce. Se comportan como los animales, que conocen las cosas pero no las entienden, y por eso terminan destruyéndose a sí mismos. _Judas 10 TLA</string>
+
+    <string name="santidad_0"> Queridos hermanos y hermanas en Cristo, Dios nos hizo esa promesa. Por eso, para que Dios nos acepte, no debemos hacer el mal, sino mantenernos libres de pecado. Honremos a Dios, y tratemos de ser santos como él. _2 Corintios 7:1 TLA</string>
+    <string name="santidad_1">Seguid la paz con todos y la santidad, sin la cual nadie verá al Señor. _Hebreos 12:14 RVR1995  </string>
+    <string name="santidad_2"> sino, así como aquel que os llamó es santo, sed también vosotros santos en toda vuestra manera de vivir, porque escrito está: «Sed santos, porque yo soy santo. _1 Pedro 1:15-16 RVR1995 </string>
+    <string name="santidad_3"> ¿Con qué limpiará el joven su camino? ¡Con guardar tu palabra!  _Salmos 119:9 RVR1995</string>
+    <string name="santidad_4"> Él nos salvó y llamó con llamamiento santo, no conforme a nuestras obras, sino según el propósito suyo y la gracia que nos fue dada en Cristo Jesús antes de los tiempos de los siglos, _2 Timoteo 1:9 RVR1995</string>
+    <string name="santidad_5">Examíname, Dios, y conoce mi corazón; pruébame y conoce mis pensamientos. Ve si hay en mí camino de perversidad y guíame en el camino eterno.  _Salmos 139:23-24 RVR1995</string>
+    <string name="santidad_6">Pero fornicación y toda impureza o avaricia, ni aun se nombre entre vosotros, como conviene a santos. _Efesios 5:3 RVR1995 </string>
+    <string name="santidad_7"> Haced todo sin murmuraciones ni discusiones, para que seáis irreprochables y sencillos, hijos de Dios sin mancha en medio de una generación maligna y perversa, en medio de la cual resplandecéis como lumbreras en el mundo, asidos de la palabra de vida, para que en el día de Cristo yo pueda gloriarme de que no he corrido en vano, ni en vano he trabajado. _Filipenses 2:14-16 RVR1995</string>
+    <string name="santidad_8">Por lo tanto, hermanos, os ruego por las misericordias de Dios que presentéis vuestros cuerpos como sacrificio vivo, santo, agradable a Dios, que es vuestro verdadero culto. _Romanos 12:1 RVR1995</string>
+    <string name="santidad_9">Nuestro Dios es único. ¡Nadie se le compara! ¡No hay quien pueda protegernos como nos protege nuestro Dios! _1 Samuel 2:2 TLA </string>
+    <string name="santidad_10">Porque yo soy el Dios eterno y mi nombre es santo. Yo vivo en un lugar alto y sagrado, pero también estoy con los pobres y animo a los afligidos. _Isaías 57:15 TLA </string>
+    <string name="santidad_11">Santificaré mi gran nombre, profanado entre las naciones, el cual profanasteis vosotros en medio de ellas. Y sabrán las naciones que yo soy Jehová, dice Jehová, el Señor, cuando sea santificado en vosotros delante de sus ojos. _Ezequiel 36:23 RVR1995</string>
+    <string name="santidad_12"> Habéis, pues, de serme santos, porque yo, Jehová, soy santo, y os he apartado de entre los pueblos para que seáis míos. _Levítico 20:26 RVR1995</string>
+    <string name="santidad_13">Nadie enciende una luz para después cubrirla con una vasija, ni la pone debajo de la cama, sino que la pone en un candelero para que los que entren vean la luz. _Lucas 8:16 RVR1995</string>
+    <string name="santidad_14">Pero ahora que habéis sido libertados del pecado y hechos siervos de Dios, tenéis por vuestro fruto la santificación y, como fin, la vida eterna, _Romanos 6:22 RVR1995</string>
+    <string name="santidad_15">Cantad a Dios, cantad salmos a su nombre; exaltad al que cabalga sobre los cielos. Jah es su nombre: ¡alegraos delante de él! Padre de huérfanos y defensor de viudas es Dios en su santa morada. _Salmos 68:4-5 RVR1995</string>
+    <string name="santidad_16"> Sed, pues, vosotros perfectos, como vuestro Padre que está en los cielos es perfecto. _Mateo 5:48 RVR1995</string>
+    <string name="santidad_17">El temor de Jehová es el principio de la sabiduría; el conocimiento del Santísimo es la inteligencia. _Proverbios 9:10 RVR1995</string>
+
+    <string name="sad_0">Más vale llorar que reír; el llanto nos hace madurar.  _Eclesiastés 7:3</string>
+    <string name="sad_1">Tú, que me has hecho ver muchas angustias y males, Volverás a darme vida, Y de nuevo me levantarás de los abismos de la tierra. Aumentarás mi grandeza, Y volverás a consolarme _Salmos 71:20-21</string>
+    <string name="sad_2">Aunque Jerusalén está en ruinas, yo la consolaré y la convertiré en un hermoso jardín. Será como el jardín que planté en Edén. Entonces Jerusalén celebrará y cantará canciones de alegría y de acción de gracias _Isaías 51:3 TLA</string>
+    <string name="sad_3">Y oí una gran voz del cielo que decía: He aquí el tabernáculo de Dios con los hombres, y él morará con ellos; y ellos serán su pueblo, y Dios mismo estará con ellos como su Dios. Enjugará Dios toda lágrima de los ojos de ellos; y ya no habrá muerte, ni habrá más llanto, ni clamor, ni dolor; porque las primeras cosas pasaron _Apocalipsis 21:3-4</string>
+    <string name="sad_4">Estas cosas os he hablado para que en mí tengáis paz. En el mundo tendréis aflicción; pero confiad, yo he vencido al mundo _Juan 16:33</string>
+    <string name="sad_5">Nadie te podrá hacer frente en todos los días de tu vida; como estuve con Moisés, estaré contigo; no te dejaré, ni te desampararé _Josué 1:5</string>
+    <string name="sad_6">Yo amo y deseo tu palabra pues me llena de alegría. Tus promesas me dan esperanza; ¡no te olvides de ellas! Tus promesas me dan vida; me consuelan en mi dolor _Salmos 119:47-50 TLA</string>
+    <string name="sad_7">Dios escucha a los suyos y los libra de su angustia _Salmos 34:17</string>
+    <string name="sad_8">Puse mi esperanza en el Señor, y él se inclinó para escuchar mis gritos; me salvó de la fosa mortal, me libró de hundirme en el pantano. Afirmó mis pies sobre una roca; dio firmeza a mis pisadas. Hizo brotar de mis labios un nuevo canto, un canto de alabanza a nuestro Dios. Muchos, al ver esto, se sintieron conmovidos y pusieron su confianza en el Señor _Salmos 40:1-3</string>
+    <string name="sad_9">¿Por qué voy a inquietarme? ¿Por qué me voy a angustiar? En Dios pondré mi esperanza, y todavía lo alabaré. ¡Él es mi Salvador y mi Dios! _Salmos 42:11</string>
+    <string name="sad_10">Si alguno de ustedes está triste, póngase a orar. Si está alegre, alabe a Dios con cánticos. _Santiago 5:13-14</string>
+    <string name="sad_11">Cuando Dios los corrija con su mano poderosa, acéptenlo con humildad. Después, cuando llegue la hora, él los exaltará. Confíen a Dios todas sus preocupaciones, porque él cuida de ustedes. _1 Pedro 5:6-7 </string>
 
 
 </resources>
